@@ -2,21 +2,21 @@
 #include <Windows.h>
 #include <fstream>
 
-#define ColorCode_DarkBlue		0
-#define ColorCode_DarkGreen		1
-#define ColorCode_DarkCyan		2
-#define ColorCode_DarkRed		3
-#define ColorCode_DarkPink		4
-#define ColorCode_DarkYellow	5
-#define ColorCode_DarkWhite		6
-#define ColorCode_Grey			7
-#define ColorCode_Blue			8
-#define ColorCode_Green			9
-#define ColorCode_Cyan			10
-#define ColorCode_Red			11
-#define ColorCode_Pink			12
-#define ColorCode_Yellow		13
-#define ColorCode_White			14
+#define ColorCode_DarkBlue	
+#define ColorCode_DarkGreen		
+#define ColorCode_DarkCyan		
+#define ColorCode_DarkRed		
+#define ColorCode_DarkPink		
+#define ColorCode_DarkYellow	
+#define ColorCode_DarkWhite		
+#define ColorCode_Grey			
+#define ColorCode_Blue			
+#define ColorCode_Green			
+#define ColorCode_Cyan			
+#define ColorCode_Red		
+#define ColorCode_Pink	
+#define ColorCode_Yellow		
+#define ColorCode_White			
 
 using namespace std;
 
